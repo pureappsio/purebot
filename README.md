@@ -1,2 +1,3 @@
-# purechat
-Facebook messenger bot &amp; live chat software
+# PureBot
+
+Facebook messenger bot software
